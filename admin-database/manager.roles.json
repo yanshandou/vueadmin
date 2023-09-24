@@ -1,0 +1,178 @@
+[{
+  "_id": {
+    "$oid": "64ccc788a664126211dd0633"
+  },
+  "permissionList": {
+    "checkedKeys": [
+      "64c8bf47d5f08b4e1375c347",
+      "64c8bfa9d5f08b4e1375c34a",
+      "64c8bfb7d5f08b4e1375c34d",
+      "64d4832e575bb58acd0cfdbe",
+      "64c8bfc9d5f08b4e1375c350",
+      "64c8bfdcd5f08b4e1375c353",
+      "64c8bff2d5f08b4e1375c356",
+      "64c8c002d5f08b4e1375c359"
+    ],
+    "halfCheckedKeys": [
+      "64c8bde0d5f08b4e1375c33e",
+      "64c8be0ed5f08b4e1375c341",
+      "64c8bc56d5f08b4e1375c335",
+      "64c8bdc1d5f08b4e1375c33b"
+    ]
+  },
+  "roleName": "产品经理",
+  "remark": "产品经理人员使用"
+},
+{
+  "_id": {
+    "$oid": "64ccc788a664126211dd0634"
+  },
+  "permissionList": {
+    "checkedKeys": [
+      "64c8bf47d5f08b4e1375c347",
+      "64c8bfa9d5f08b4e1375c34a"
+    ],
+    "halfCheckedKeys": [
+      "64c8bc56d5f08b4e1375c335",
+      "64c8bdc1d5f08b4e1375c33b"
+    ]
+  },
+  "roleName": "研发",
+  "remark": "研发人员使用"
+},
+{
+  "_id": {
+    "$oid": "64ccc788a664126211dd0635"
+  },
+  "permissionList": {
+    "checkedKeys": [
+      "64c8bf47d5f08b4e1375c347",
+      "64c8bfa9d5f08b4e1375c34a"
+    ],
+    "halfCheckedKeys": [
+      "64c8bc56d5f08b4e1375c335",
+      "64c8bdc1d5f08b4e1375c33b"
+    ]
+  },
+  "roleName": "测试",
+  "remark": "测试人员使用"
+},
+{
+  "_id": {
+    "$oid": "64ccc788a664126211dd0636"
+  },
+  "permissionList": {
+    "checkedKeys": [
+      "64c8bf47d5f08b4e1375c347",
+      "64c8bfa9d5f08b4e1375c34a"
+    ],
+    "halfCheckedKeys": [
+      "64c8bc56d5f08b4e1375c335",
+      "64c8bdc1d5f08b4e1375c33b"
+    ]
+  },
+  "roleName": "JAVA",
+  "remark": "JAVA人员使用"
+},
+{
+  "_id": {
+    "$oid": "64ccc788a664126211dd0637"
+  },
+  "permissionList": {
+    "checkedKeys": [
+      "64c8bf47d5f08b4e1375c347",
+      "64c8bfa9d5f08b4e1375c34a"
+    ],
+    "halfCheckedKeys": [
+      "64c8bc56d5f08b4e1375c335",
+      "64c8bdc1d5f08b4e1375c33b"
+    ]
+  },
+  "roleName": "运维",
+  "remark": "运维人员使用"
+},
+{
+  "_id": {
+    "$oid": "64ccc788a664126211dd0638"
+  },
+  "permissionList": {
+    "checkedKeys": [
+      "64c8bf47d5f08b4e1375c347",
+      "64c8bfa9d5f08b4e1375c34a"
+    ],
+    "halfCheckedKeys": [
+      "64c8bc56d5f08b4e1375c335",
+      "64c8bdc1d5f08b4e1375c33b"
+    ]
+  },
+  "roleName": "运营",
+  "remark": "运营人员使用"
+},
+{
+  "_id": {
+    "$oid": "64ccc788a664126211dd0639"
+  },
+  "permissionList": {
+    "checkedKeys": [
+      "64c8bf47d5f08b4e1375c347",
+      "64c8bfa9d5f08b4e1375c34a"
+    ],
+    "halfCheckedKeys": [
+      "64c8bc56d5f08b4e1375c335",
+      "64c8bdc1d5f08b4e1375c33b"
+    ]
+  },
+  "roleName": "市场",
+  "remark": "市场人员使用"
+},
+{
+  "_id": {
+    "$oid": "64ccc788a664126211dd063a"
+  },
+  "permissionList": {
+    "checkedKeys": [
+      "64c8bf47d5f08b4e1375c347",
+      "64c8bfa9d5f08b4e1375c34a",
+      "64c8bfb7d5f08b4e1375c34d",
+      "64d4832e575bb58acd0cfdbe",
+      "64d48343575bb58acd0cfdc1",
+      "64c8c274d5f08b4e1375c365",
+      "64c8c292d5f08b4e1375c368",
+      "64c8c2c7d5f08b4e1375c36e",
+      "64d9bb5fb162b72fa65c1923"
+    ],
+    "halfCheckedKeys": [
+      "64c8bdc1d5f08b4e1375c33b",
+      "64c8bc7ad5f08b4e1375c338",
+      "64c8c261d5f08b4e1375c362",
+      "64c8c2b7d5f08b4e1375c36b",
+      "64c8bc56d5f08b4e1375c335"
+    ]
+  },
+  "roleName": "管理层",
+  "remark": "管理层人员使用"
+},
+{
+  "_id": {
+    "$oid": "64d8f03691dadb580ed62afa"
+  },
+  "roleName": "前端开发",
+  "permissionList": {
+    "checkedKeys": [
+      "64c8c274d5f08b4e1375c365",
+      "64c8c292d5f08b4e1375c368"
+    ],
+    "halfCheckedKeys": [
+      "64c8c261d5f08b4e1375c362",
+      "64c8bc7ad5f08b4e1375c338"
+    ]
+  },
+  "updateTime": {
+    "$date": "2023-08-13T13:24:14.469Z"
+  },
+  "createTime": {
+    "$date": "2023-08-13T13:24:14.469Z"
+  },
+  "__v": 0,
+  "remark": "前端开发人员使用"
+}]

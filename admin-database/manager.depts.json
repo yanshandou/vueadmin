@@ -1,0 +1,241 @@
+[{
+  "_id": {
+    "$oid": "60167059c9027b7d2c520a61"
+  },
+  "parentId": [
+    null
+  ],
+  "updateTime": {
+    "$date": "2021-01-31T08:53:37.418Z"
+  },
+  "createTime": {
+    "$date": "2021-01-31T08:53:37.418Z"
+  },
+  "deptName": "橘子皮",
+  "userId": "1000002",
+  "userName": "admin",
+  "userEmail": "admin@126.com"
+},
+{
+  "_id": {
+    "$oid": "6016728fc6a4417f2d27506e"
+  },
+  "parentId": [
+    {
+      "$oid": "60167059c9027b7d2c520a61"
+    }
+  ],
+  "updateTime": {
+    "$date": "2021-01-31T09:03:23.337Z"
+  },
+  "createTime": {
+    "$date": "2021-01-31T09:03:23.337Z"
+  },
+  "deptName": "研发部门",
+  "userId": "1000003",
+  "userName": "jack",
+  "userEmail": "jack@126.com"
+},
+{
+  "_id": {
+    "$oid": "60167621531124822b79e124"
+  },
+  "parentId": [
+    {
+      "$oid": "60167059c9027b7d2c520a61"
+    },
+    {
+      "$oid": "6016728fc6a4417f2d27506e"
+    }
+  ],
+  "updateTime": {
+    "$date": "2021-02-01T13:05:06.188Z"
+  },
+  "createTime": {
+    "$date": "2021-01-31T09:19:09.081Z"
+  },
+  "deptName": "JAVA小组-1",
+  "userId": "1000010",
+  "userName": "Tim",
+  "userEmail": "Tim@126.com"
+},
+{
+  "_id": {
+    "$oid": "60167345c6a4417f2d27506f"
+  },
+  "parentId": [
+    {
+      "$oid": "60167059c9027b7d2c520a61"
+    }
+  ],
+  "updateTime": {
+    "$date": "2023-08-13T13:24:26.064Z"
+  },
+  "createTime": {
+    "$date": "2021-01-31T09:03:23.337Z"
+  },
+  "deptName": "前端部门",
+  "userId": "105",
+  "userName": "zhaoliu",
+  "userEmail": "zhaoliu@wangshidai.com"
+},
+{
+  "_id": {
+    "$oid": "6016734ec6a4417f2d275070"
+  },
+  "parentId": [
+    {
+      "$oid": "60167059c9027b7d2c520a61"
+    }
+  ],
+  "updateTime": {
+    "$date": "2021-01-31T09:03:23.337Z"
+  },
+  "createTime": {
+    "$date": "2021-01-31T09:03:23.337Z"
+  },
+  "deptName": "测试部门",
+  "userId": "1000005",
+  "userName": "Lucy",
+  "userEmail": "Lucy@126.com"
+},
+{
+  "_id": {
+    "$oid": "6016735ac6a4417f2d275071"
+  },
+  "parentId": [
+    {
+      "$oid": "60167059c9027b7d2c520a61"
+    }
+  ],
+  "updateTime": {
+    "$date": "2021-01-31T09:03:23.337Z"
+  },
+  "createTime": {
+    "$date": "2021-01-31T09:03:23.337Z"
+  },
+  "deptName": "UED部门",
+  "userId": "1000006",
+  "userName": "Jim",
+  "userEmail": "Jim@126.com"
+},
+{
+  "_id": {
+    "$oid": "60167375c6a4417f2d275072"
+  },
+  "parentId": [
+    {
+      "$oid": "60167059c9027b7d2c520a61"
+    }
+  ],
+  "updateTime": {
+    "$date": "2021-01-31T09:03:23.337Z"
+  },
+  "createTime": {
+    "$date": "2021-01-31T09:03:23.337Z"
+  },
+  "deptName": "大数据部门",
+  "userId": "1000007",
+  "userName": "MaLi",
+  "userEmail": "MaLi@126.com"
+},
+{
+  "_id": {
+    "$oid": "60180ce5b1eaed6c45fbebe5"
+  },
+  "parentId": [
+    {
+      "$oid": "60167059c9027b7d2c520a61"
+    }
+  ],
+  "updateTime": {
+    "$date": "2021-02-01T14:06:49.922Z"
+  },
+  "createTime": {
+    "$date": "2021-02-01T14:06:49.922Z"
+  },
+  "deptName": "市场部门",
+  "userId": "1000011",
+  "userName": "Baidu",
+  "userEmail": "Baidu@126.com"
+},
+{
+  "_id": {
+    "$oid": "6018119bb1eaed6c45fbebe6"
+  },
+  "parentId": [
+    {
+      "$oid": "60167059c9027b7d2c520a61"
+    }
+  ],
+  "updateTime": {
+    "$date": "2021-02-01T14:06:49.922Z"
+  },
+  "createTime": {
+    "$date": "2021-02-01T14:06:49.922Z"
+  },
+  "deptName": "运营部门",
+  "userId": "1000012",
+  "userName": "TengXun",
+  "userEmail": "TengXun@126.com"
+},
+{
+  "_id": {
+    "$oid": "601811dfb1eaed6c45fbebe7"
+  },
+  "parentId": [
+    {
+      "$oid": "60167059c9027b7d2c520a61"
+    }
+  ],
+  "updateTime": {
+    "$date": "2021-02-01T14:06:49.922Z"
+  },
+  "createTime": {
+    "$date": "2021-02-01T14:06:49.922Z"
+  },
+  "deptName": "运维部门",
+  "userId": "1000014",
+  "userName": "Apple",
+  "userEmail": "Apple@126.com"
+},
+{
+  "_id": {
+    "$oid": "602f0e679aac702f1dc8b0f3"
+  },
+  "parentId": [
+    {
+      "$oid": "60167059c9027b7d2c520a61"
+    }
+  ],
+  "updateTime": {
+    "$date": "2023-08-13T14:48:25.463Z"
+  },
+  "createTime": {
+    "$date": "2021-02-18T16:29:35.671Z"
+  },
+  "deptName": "人事部",
+  "userId": "108",
+  "userName": "renshi",
+  "userEmail": "renshi@wangshidai.com"
+},
+{
+  "_id": {
+    "$oid": "602f0e779aac702f1dc8b0f4"
+  },
+  "parentId": [
+    {
+      "$oid": "60167059c9027b7d2c520a61"
+    }
+  ],
+  "updateTime": {
+    "$date": "2023-08-13T14:48:35.986Z"
+  },
+  "createTime": {
+    "$date": "2021-02-18T16:29:35.671Z"
+  },
+  "deptName": "财务部",
+  "userId": "109",
+  "userName": "caiwu",
+  "userEmail": "caiwu@wangshidai.com"
+}]

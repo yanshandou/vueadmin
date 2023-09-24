@@ -1,0 +1,158 @@
+[{
+  "_id": {
+    "$oid": "64d9069bf73f2f20ca2bf9ae"
+  },
+  "orderNo": "XJ202308141",
+  "applyType": 2,
+  "startTime": {
+    "$date": "2023-07-31T16:00:00.000Z"
+  },
+  "endTime": {
+    "$date": "2023-08-14T16:00:00.000Z"
+  },
+  "applyUser": {
+    "userId": "106",
+    "userName": "tianqi",
+    "userEmail": "tianqi@wangshidai.com"
+  },
+  "leaveTime": "15天",
+  "reasons": "不可以拒绝的理由",
+  "auditUsers": "zhaoliu,renshi,caiwu",
+  "curAuditUserName": "caiwu",
+  "auditFlows": [
+    {
+      "userId": "105",
+      "userName": "zhaoliu",
+      "userEmail": "zhaoliu@wangshidai.com",
+      "_id": {
+        "$oid": "64d9069bf73f2f20ca2bf9af"
+      }
+    },
+    {
+      "userId": "108",
+      "userName": "renshi",
+      "userEmail": "renshi@wangshidai.com",
+      "_id": {
+        "$oid": "64d9069bf73f2f20ca2bf9b0"
+      }
+    },
+    {
+      "userId": "109",
+      "userName": "caiwu",
+      "userEmail": "caiwu@wangshidai.com",
+      "_id": {
+        "$oid": "64d9069bf73f2f20ca2bf9b1"
+      }
+    }
+  ],
+  "auditLogs": [
+    {
+      "userId": "105",
+      "userName": "zhaoliu",
+      "createTime": {
+        "$date": "2023-08-16T02:05:02.211Z"
+      },
+      "remark": "赵六通过",
+      "action": "审核通过",
+      "_id": {
+        "$oid": "64dc2ece87f7a1b4cb2702ad"
+      }
+    },
+    {
+      "userId": "108",
+      "userName": "renshi",
+      "createTime": {
+        "$date": "2023-08-16T02:26:14.488Z"
+      },
+      "remark": "人事通过",
+      "action": "审核通过",
+      "_id": {
+        "$oid": "64dc33c615eabeaf6b0c32ea"
+      }
+    },
+    {
+      "userId": "109",
+      "userName": "caiwu",
+      "createTime": {
+        "$date": "2023-08-16T02:27:22.039Z"
+      },
+      "remark": "财务通过",
+      "action": "审核通过",
+      "_id": {
+        "$oid": "64dc340a15eabeaf6b0c3307"
+      }
+    }
+  ],
+  "applyState": 4,
+  "createTime": {
+    "$date": "2023-08-13T16:36:43.886Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64dc3ab407a6c78f30ee49fd"
+  },
+  "orderNo": "XJ202308161",
+  "applyType": 1,
+  "startTime": {
+    "$date": "2023-07-31T16:00:00.000Z"
+  },
+  "endTime": {
+    "$date": "2023-08-16T16:00:00.000Z"
+  },
+  "applyUser": {
+    "userId": "106",
+    "userName": "tianqi",
+    "userEmail": "tianqi@wangshidai.com"
+  },
+  "leaveTime": "17天",
+  "reasons": "我是田七, 不想上班",
+  "auditUsers": "zhaoliu,renshi,caiwu",
+  "curAuditUserName": "renshi",
+  "auditFlows": [
+    {
+      "userId": "105",
+      "userName": "zhaoliu",
+      "userEmail": "zhaoliu@wangshidai.com",
+      "_id": {
+        "$oid": "64dc3ab407a6c78f30ee49fe"
+      }
+    },
+    {
+      "userId": "108",
+      "userName": "renshi",
+      "userEmail": "renshi@wangshidai.com",
+      "_id": {
+        "$oid": "64dc3ab407a6c78f30ee49ff"
+      }
+    },
+    {
+      "userId": "109",
+      "userName": "caiwu",
+      "userEmail": "caiwu@wangshidai.com",
+      "_id": {
+        "$oid": "64dc3ab407a6c78f30ee4a00"
+      }
+    }
+  ],
+  "auditLogs": [
+    {
+      "userId": "105",
+      "userName": "zhaoliu",
+      "createTime": {
+        "$date": "2023-08-16T12:01:58.229Z"
+      },
+      "remark": "通过",
+      "action": "审核通过",
+      "_id": {
+        "$oid": "64dcbab607a6c78f30ee4af4"
+      }
+    }
+  ],
+  "applyState": 2,
+  "createTime": {
+    "$date": "2023-08-16T02:55:48.060Z"
+  },
+  "__v": 0
+}]
